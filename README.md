@@ -29,7 +29,6 @@ O jogo conta com sistema de clima dinâmico que altera a atmosfera da cena aleat
 | Zoom câmera     | `Scroll do Mouse`        |
 | Pausar          | `Escape`                 |
 
-**Objetivo:** Explore o mapa, elimine inimigos e sobreviva o maior tempo possível. Cada inimigo eliminado vale pontos. Se a barra de vida chegar a zero, aparece a tela de Game Over.
 
 ---
 
